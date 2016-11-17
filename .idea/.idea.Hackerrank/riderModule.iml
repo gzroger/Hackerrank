@@ -2,12 +2,24 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../QueuesCastle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksAndXorOr" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../StacksEditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../StacksEqualStacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksLargestRect" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../StacksWaiter" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../QueuesCastle/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../QueuesCastle/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../StacksAndXorOr/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../StacksAndXorOr/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StacksEditor/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StacksEditor/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StacksEqualStacks/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StacksEqualStacks/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../StacksLargestRect/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../StacksLargestRect/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StacksWaiter/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../StacksWaiter/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
