@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a9a9d08-091f-4ba1-a659-06a686a32414" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../QueuesCastle/Program.cs" afterPath="$PROJECT_DIR$/../../QueuesCastle/Program.cs" />
+    <list default="true" id="5a9a9d08-091f-4ba1-a659-06a686a32414" name="Default" comment="sherlock problem solutions">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/notes.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/.name" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hackerrank.sln" afterPath="$PROJECT_DIR$/Hackerrank.sln" />
     </list>
     <ignored path="Hackerrank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,61 +37,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="267">
+              <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="331" selection-end-column="5" />
+              <folding>
+                <marker date="1487538121849" expanded="true" signature="6:106" ph="..." />
+                <marker date="1487538121849" expanded="true" signature="122:26084" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="163:24678" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="24716:25835" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="24934:25381" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25014:25106" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25134:25367" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25184:25349" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25398:25495" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25518:25734" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25646:25720" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25873:26082" ph="{...}" />
+                <marker date="1487538121849" expanded="true" signature="25972:26076" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../StacksAndXorOr/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="442">
+              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
-                <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
-                <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
-                <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
+                <marker date="1487539894718" expanded="true" signature="6:55" ph="..." />
+                <marker date="1487539894718" expanded="true" signature="91:922" ph="{...}" />
+                <marker date="1487539894718" expanded="true" signature="120:920" ph="{...}" />
+                <marker date="1487539894718" expanded="true" signature="208:914" ph="{...}" />
+                <marker date="1487539894718" expanded="true" signature="314:904" ph="{...}" />
+                <marker date="1487539894718" expanded="true" signature="562:649" ph="{...}" />
+                <marker date="1487539894718" expanded="true" signature="698:783" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../QueuesCastle/Program.cs">
+      <file leaf-file-name="MathSherlockPermutations.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-              <folding>
-                <marker date="1479419117527" expanded="true" signature="145:2171" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="172:217" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="243:315" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="332:481" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="1489:1637" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="1665:2169" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="1709:2017" ph="{...}" />
-                <marker date="1479419117527" expanded="true" signature="2118:2166" ph="{...}" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="109" lean-forward="true" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathSherlockDivisors.csproj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/notes.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>31991</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zoli &lt;zoltan.gaspar@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../StacksLargestRect/Program.cs" />
-        <option value="$PROJECT_DIR$/../../StacksLargestRect/Solution.cs" />
-        <option value="$PROJECT_DIR$/../../StacksAndXorOr/Program.cs" />
-        <option value="$PROJECT_DIR$/../../QueuesCastle/Program.cs" />
+        <option value="$USER_HOME$/StacksLargestRect/Program.cs" />
+        <option value="$USER_HOME$/StacksLargestRect/Solution.cs" />
+        <option value="$USER_HOME$/StacksAndXorOr/Program.cs" />
+        <option value="$USER_HOME$/QueuesCastle/Program.cs" />
+        <option value="$PROJECT_DIR$/MathSherlockDivisors/notes.txt" />
+        <option value="$PROJECT_DIR$/MathSherlockDivisors/Program.cs" />
+        <option value="$PROJECT_DIR$/MathSherlockPermutations/notes.txt" />
+        <option value="$PROJECT_DIR$/MathSherlockPermutations/Program.cs" />
       </list>
     </option>
   </component>
@@ -88,16 +144,7 @@
     <option name="width" value="1277" />
     <option name="height" value="988" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -121,7 +168,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (6 projects)" />
+              <option name="myItemId" value="Hackerrank (8 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -131,11 +178,57 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (6 projects)" />
+              <option name="myItemId" value="Hackerrank (8 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="QueuesCastle" />
+              <option name="myItemId" value="StacksAndXorOr" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank (8 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MathSherlockPermutations" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank (8 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MathSherlockDivisors" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank (8 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MathSherlockDivisors" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -146,61 +239,108 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../StacksWaiter/StacksWaiter.csproj" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$USER_HOME$/StacksWaiter/StacksWaiter.csproj" />
   </component>
-  <component name="RunManager" selected=".NET Project.StacksAndXorOr">
+  <component name="RunManager" selected=".NET Project.MathSherlockPermutations">
     <configuration default="false" name="StacksLargestRect" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../StacksLargestRect/StacksLargestRect.csproj" />
+      <option name="PROJECT_PATH" value="$USER_HOME$/StacksLargestRect/StacksLargestRect.csproj" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/../../StacksLargestRect/bin/Debug/StacksLargestRect.exe" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="$USER_HOME$/StacksLargestRect/bin/Debug/StacksLargestRect.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../StacksLargestRect/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/StacksLargestRect/bin/Debug" />
       <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MathSherlockDivisors" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MathSherlockDivisors/bin/Debug/MathSherlockDivisors.exe" />
+      <option name="PROGRAM_PARAMETERS" value="&lt;c:\Users\zoli\Downloads\input01.txt &gt;c:\Users\zoli\Downloads\div_out.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MathSherlockDivisors/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MathSherlockPermutations" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MathSherlockPermutations/bin/Debug/MathSherlockPermutations.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MathSherlockPermutations/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="StacksAndXorOr" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../StacksAndXorOr/StacksAndXorOr.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StacksLargestRect/StacksLargestRect.csproj" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/../../StacksAndXorOr/bin/Debug/StacksAndXorOr.exe" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StacksLargestRect/bin/Debug/StacksLargestRect.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../StacksAndXorOr/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StacksLargestRect/bin/Debug" />
       <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project.StacksAndXorOr" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.StacksLargestRect" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project.MathSherlockDivisors" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project.MathSherlockPermutations" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.StacksLargestRect" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.MathSherlockPermutations" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.MathSherlockDivisors" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.StacksLargestRect" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="RuntimeDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -220,7 +360,8 @@
       <workItem from="1478957345857" duration="8142000" />
       <workItem from="1479324644586" duration="2061000" />
       <workItem from="1479333185781" duration="647000" />
-      <workItem from="1479413031189" duration="3184000" />
+      <workItem from="1479413031189" duration="3251000" />
+      <workItem from="1487526627494" duration="8191000" />
     </task>
     <task id="LOCAL-00001" summary="new projects has been put in solution">
       <created>1479414038857</created>
@@ -229,11 +370,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479414038857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="breath-first graph search (wanna be an A* sometime later) - not tested">
+      <created>1479419529207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1479419529207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21993000" />
+    <option name="totallyTimeSpent" value="30251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,26 +394,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="44" width="1277" height="988" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.50402576" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49712408" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5028759" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.4847987" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28618422" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49597424" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29087922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49301562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49055055" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -275,170 +426,125 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
     <MESSAGE value="new projects has been put in solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="new projects has been put in solution" />
+    <MESSAGE value="breath-first graph search (wanna be an A* sometime later) - not tested" />
+    <MESSAGE value="sherlock problem solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="sherlock problem solutions" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/MathSherlockDivisors/Program.cs</url>
+          <line>286</line>
+          <properties startOffset="24875" endOffset="25761" documentPath="$PROJECT_DIR$/MathSherlockDivisors/Program.cs" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
+    <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
+    <entry file="file://$USER_HOME$/StacksAndXorOr/Program.cs" />
+    <entry file="file://$USER_HOME$/QueuesCastle/Program.cs" />
+    <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
+    <entry file="file://$USER_HOME$/StacksAndXorOr/Program.cs" />
+    <entry file="file://$USER_HOME$/QueuesCastle/Program.cs" />
+    <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
+    <entry file="file://$USER_HOME$/StacksAndXorOr/Program.cs" />
+    <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
+    <entry file="file://$USER_HOME$/StacksAndXorOr/Program.cs" />
+    <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
+    <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
+    <entry file="file://$USER_HOME$/StacksAndXorOr/Program.cs" />
+    <entry file="file://$USER_HOME$/QueuesCastle/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksAndXorOr/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="292">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="331" selection-end-column="5" />
+          <folding>
+            <marker date="1487538121849" expanded="true" signature="6:106" ph="..." />
+            <marker date="1487538121849" expanded="true" signature="122:26084" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="163:24678" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="24716:25835" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="24934:25381" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25014:25106" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25134:25367" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25184:25349" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25398:25495" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25518:25734" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25646:25720" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25873:26082" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25972:26076" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StacksAndXorOr/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
+            <marker date="1479324635086" expanded="true" signature="92:705" ph="{...}" />
             <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
             <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
+            <marker date="1479324635086" expanded="true" signature="352:666" ph="{...}" />
+            <marker date="1479324635086" expanded="true" signature="389:560" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../QueuesCastle/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
-            <marker date="1479419117527" expanded="true" signature="145:2171" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="172:217" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="243:315" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="332:481" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1489:1637" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1665:2169" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1709:2017" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="2118:2166" ph="{...}" />
+            <marker date="1487539894718" expanded="true" signature="6:55" ph="..." />
+            <marker date="1487539894718" expanded="true" signature="91:922" ph="{...}" />
+            <marker date="1487539894718" expanded="true" signature="120:920" ph="{...}" />
+            <marker date="1487539894718" expanded="true" signature="208:914" ph="{...}" />
+            <marker date="1487539894718" expanded="true" signature="314:904" ph="{...}" />
+            <marker date="1487539894718" expanded="true" signature="562:649" ph="{...}" />
+            <marker date="1487539894718" expanded="true" signature="698:783" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="17">
+          <caret line="1" column="109" lean-forward="true" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksAndXorOr/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
-            <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../QueuesCastle/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1479419117527" expanded="true" signature="145:2171" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="172:217" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="243:315" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="332:481" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1489:1637" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1665:2169" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1709:2017" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="2118:2166" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="68">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksAndXorOr/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
-            <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksAndXorOr/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
-            <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksLargestRect/Solution.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../StacksAndXorOr/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
-            <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../QueuesCastle/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-          <folding>
-            <marker date="1479419117527" expanded="true" signature="145:2171" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="172:217" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="243:315" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="332:481" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1489:1637" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1665:2169" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="1709:2017" ph="{...}" />
-            <marker date="1479419117527" expanded="true" signature="2118:2166" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>

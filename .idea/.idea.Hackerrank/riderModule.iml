@@ -2,12 +2,18 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../MathSherlockDivisors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../MathSherlockPermutations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../QueuesCastle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksAndXorOr" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksEditor" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksEqualStacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksLargestRect" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksWaiter" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockDivisors/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockDivisors/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockPermutations/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockPermutations/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../QueuesCastle/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../QueuesCastle/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../StacksAndXorOr/bin" />
