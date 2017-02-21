@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a9a9d08-091f-4ba1-a659-06a686a32414" name="Default" comment="sherlock problem solutions">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/Program.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/Properties/AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockDivisors/notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/Program.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/Properties/AssemblyInfo.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathSherlockPermutations/notes.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/vcs.xml" />
+    <list default="true" id="5a9a9d08-091f-4ba1-a659-06a686a32414" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathEvenOddQuery/MathEvenOddQuery.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathEvenOddQuery/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathEvenOddQuery/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MathEvenOddQuery/notes.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Hackerrank/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Hackerrank/riderModule.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hackerrank.sln" afterPath="$PROJECT_DIR$/Hackerrank.sln" />
@@ -37,73 +29,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/Program.cs">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MathEvenOddQuery/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="331" selection-end-column="5" />
+            <state relative-caret-position="275">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
-                <marker date="1487538121849" expanded="true" signature="6:106" ph="..." />
-                <marker date="1487538121849" expanded="true" signature="122:26084" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="163:24678" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="24716:25835" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="24934:25381" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25014:25106" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25134:25367" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25184:25349" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25398:25495" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25518:25734" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25646:25720" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25873:26082" ph="{...}" />
-                <marker date="1487538121849" expanded="true" signature="25972:26076" ph="{...}" />
+                <marker date="1487707136103" expanded="true" signature="6:89" ph="..." />
+                <marker date="1487707136103" expanded="true" signature="117:1078" ph="{...}" />
+                <marker date="1487707136103" expanded="true" signature="146:1076" ph="{...}" />
+                <marker date="1487707136103" expanded="true" signature="199:719" ph="{...}" />
+                <marker date="1487707136103" expanded="true" signature="442:709" ph="{...}" />
+                <marker date="1487707136103" expanded="true" signature="777:876" ph="{...}" />
+                <marker date="1487707136103" expanded="true" signature="885:1070" ph="/* private static BigInteger Find(int[] A, int x, int y) ... */" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-              <folding>
-                <marker date="1487539894718" expanded="true" signature="6:55" ph="..." />
-                <marker date="1487539894718" expanded="true" signature="91:922" ph="{...}" />
-                <marker date="1487539894718" expanded="true" signature="120:920" ph="{...}" />
-                <marker date="1487539894718" expanded="true" signature="208:914" ph="{...}" />
-                <marker date="1487539894718" expanded="true" signature="314:904" ph="{...}" />
-                <marker date="1487539894718" expanded="true" signature="562:649" ph="{...}" />
-                <marker date="1487539894718" expanded="true" signature="698:783" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MathSherlockPermutations.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="109" lean-forward="true" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MathSherlockDivisors.csproj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/notes.txt">
+        <entry file="file://$PROJECT_DIR$/MathEvenOddQuery/notes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -135,6 +83,9 @@
         <option value="$PROJECT_DIR$/MathSherlockDivisors/Program.cs" />
         <option value="$PROJECT_DIR$/MathSherlockPermutations/notes.txt" />
         <option value="$PROJECT_DIR$/MathSherlockPermutations/Program.cs" />
+        <option value="$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj" />
+        <option value="$PROJECT_DIR$/MathEvenOddQuery/notes.txt" />
+        <option value="$PROJECT_DIR$/MathEvenOddQuery/Program.cs" />
       </list>
     </option>
   </component>
@@ -168,67 +119,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (8 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (8 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StacksAndXorOr" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (8 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MathSherlockPermutations" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (8 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MathSherlockDivisors" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackerrank (8 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MathSherlockDivisors" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="References" />
+              <option name="myItemId" value="Hackerrank (9 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,7 +133,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$USER_HOME$/StacksWaiter/StacksWaiter.csproj" />
   </component>
-  <component name="RunManager" selected=".NET Project.MathSherlockPermutations">
+  <component name="RunManager" selected=".NET Project.MathEvenOddQuery">
     <configuration default="false" name="StacksLargestRect" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="PROJECT_PATH" value="$USER_HOME$/StacksLargestRect/StacksLargestRect.csproj" />
       <option name="PROJECT_KIND" value="Console" />
@@ -274,6 +165,18 @@
       <option name="EXE_PATH" value="$PROJECT_DIR$/MathSherlockPermutations/bin/Debug/MathSherlockPermutations.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MathSherlockPermutations/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MathEvenOddQuery" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MathEvenOddQuery/MathEvenOddQuery.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MathEvenOddQuery/bin/Debug/MathEvenOddQuery.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MathEvenOddQuery/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -315,18 +218,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project.StacksAndXorOr" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.StacksLargestRect" />
       <item index="3" class="java.lang.String" itemvalue=".NET Project.MathSherlockDivisors" />
       <item index="4" class="java.lang.String" itemvalue=".NET Project.MathSherlockPermutations" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project.MathEvenOddQuery" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.MathSherlockPermutations" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.MathSherlockDivisors" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project.StacksLargestRect" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.MathEvenOddQuery" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.MathSherlockPermutations" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.MathSherlockDivisors" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project.StacksLargestRect" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +266,9 @@
       <workItem from="1479324644586" duration="2061000" />
       <workItem from="1479333185781" duration="647000" />
       <workItem from="1479413031189" duration="3251000" />
-      <workItem from="1487526627494" duration="8191000" />
+      <workItem from="1487526627494" duration="8817000" />
+      <workItem from="1487620151165" duration="3507000" />
+      <workItem from="1487705814193" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="new projects has been put in solution">
       <created>1479414038857</created>
@@ -377,11 +284,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479419529207</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sherlock problem solutions">
+      <created>1487540047467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487540047467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30251000" />
+    <option name="totallyTimeSpent" value="35715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -394,19 +308,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="44" width="1277" height="988" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49712408" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5028759" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.5184881" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.4847987" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32771084" sideWeight="0.48151192" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29087922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30073953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49301562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -415,17 +329,20 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49712408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$USER_HOME$" />
     </ignored-roots>
@@ -449,6 +366,79 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MathEvenOddQuery/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487707136103" expanded="true" signature="6:89" ph="..." />
+            <marker date="1487707136103" expanded="true" signature="117:1078" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="146:1076" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="199:719" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="442:709" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="777:876" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="885:1070" ph="/* private static BigInteger Find(int[] A, int x, int y) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathEvenOddQuery/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5525">
+          <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="331" selection-end-column="5" />
+          <folding>
+            <marker date="1487538121849" expanded="true" signature="6:106" ph="..." />
+            <marker date="1487538121849" expanded="true" signature="163:24678" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="24716:25835" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="24934:25381" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25014:25106" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25134:25367" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25184:25349" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25398:25495" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25518:25734" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25646:25720" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25873:26082" ph="{...}" />
+            <marker date="1487538121849" expanded="true" signature="25972:26076" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="109" lean-forward="true" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/StacksLargestRect/Solution.cs" />
     <entry file="file://$USER_HOME$/StacksAndXorOr/Program.cs" />
     <entry file="file://$USER_HOME$/QueuesCastle/Program.cs" />
@@ -467,25 +457,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
+        <state relative-caret-position="408">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="5525">
           <caret line="325" column="0" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="331" selection-end-column="5" />
           <folding>
             <marker date="1487538121849" expanded="true" signature="6:106" ph="..." />
-            <marker date="1487538121849" expanded="true" signature="122:26084" ph="{...}" />
             <marker date="1487538121849" expanded="true" signature="163:24678" ph="{...}" />
             <marker date="1487538121849" expanded="true" signature="24716:25835" ph="{...}" />
             <marker date="1487538121849" expanded="true" signature="24934:25381" ph="{...}" />
@@ -505,46 +492,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <marker date="1479324635086" expanded="true" signature="6:66" ph="..." />
-            <marker date="1479324635086" expanded="true" signature="92:705" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="109:703" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="146:700" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="352:666" ph="{...}" />
-            <marker date="1479324635086" expanded="true" signature="389:560" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <marker date="1487539894718" expanded="true" signature="6:55" ph="..." />
-            <marker date="1487539894718" expanded="true" signature="91:922" ph="{...}" />
-            <marker date="1487539894718" expanded="true" signature="120:920" ph="{...}" />
-            <marker date="1487539894718" expanded="true" signature="208:914" ph="{...}" />
-            <marker date="1487539894718" expanded="true" signature="314:904" ph="{...}" />
-            <marker date="1487539894718" expanded="true" signature="562:649" ph="{...}" />
-            <marker date="1487539894718" expanded="true" signature="698:783" ph="{...}" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/MathSherlockPermutations.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="109" lean-forward="true" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
+          <caret line="1" column="109" lean-forward="false" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSherlockPermutations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathEvenOddQuery/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MathSherlockDivisors/MathSherlockDivisors.csproj">
+    <entry file="file://$PROJECT_DIR$/MathEvenOddQuery/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="275">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <marker date="1487707136103" expanded="true" signature="6:89" ph="..." />
+            <marker date="1487707136103" expanded="true" signature="117:1078" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="146:1076" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="199:719" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="442:709" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="777:876" ph="{...}" />
+            <marker date="1487707136103" expanded="true" signature="885:1070" ph="/* private static BigInteger Find(int[] A, int x, int y) ... */" />
+          </folding>
         </state>
       </provider>
     </entry>

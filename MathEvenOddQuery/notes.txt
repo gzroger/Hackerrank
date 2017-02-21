@@ -1,0 +1,25 @@
+3 2 7
+
+1 2
+
+3 POW X
+
+---
+N POW M (N>0, M>0)
+- even: N even
+- odd: N odd
+
+N pow 0 (N>0) = 1
+0 POW 0 = 1
+odd
+
+--
+0 POW M (M>0) = 0
+even
+-----
+
+1 2 7 0 8
+
+3 5
+
+7 ^ 0 = odd
