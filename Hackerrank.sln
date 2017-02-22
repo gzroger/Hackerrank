@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSherlockPermutations", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathEvenOddQuery", "MathEvenOddQuery\MathEvenOddQuery.csproj", "{435E590F-3F8B-484C-92A9-2AB09E84EE0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSpecialMultiple", "MathSpecialMultiple\MathSpecialMultiple.csproj", "{99D2208B-9118-4149-86DB-8DF190D804B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{435E590F-3F8B-484C-92A9-2AB09E84EE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{435E590F-3F8B-484C-92A9-2AB09E84EE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{435E590F-3F8B-484C-92A9-2AB09E84EE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D2208B-9118-4149-86DB-8DF190D804B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D2208B-9118-4149-86DB-8DF190D804B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D2208B-9118-4149-86DB-8DF190D804B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D2208B-9118-4149-86DB-8DF190D804B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

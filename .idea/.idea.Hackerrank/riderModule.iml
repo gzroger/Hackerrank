@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../MathEvenOddQuery" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../MathSherlockDivisors" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../MathSherlockPermutations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../MathSpecialMultiple" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../QueuesCastle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksAndXorOr" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../StacksEditor" isTestSource="false" />
@@ -17,6 +18,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockDivisors/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockPermutations/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../MathSherlockPermutations/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MathSpecialMultiple/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MathSpecialMultiple/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../QueuesCastle/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../QueuesCastle/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../StacksAndXorOr/bin" />
